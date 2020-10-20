@@ -13,9 +13,10 @@ In mathematics, a matrix is a __rectangular array of numbers, symbols, or expres
 
 There are a number of basic operations that can be applied to modify matrices:
 
+* [Determinant](https://en.wikipedia.org/wiki/Determinant)
+* [Transposition](https://en.wikipedia.org/wiki/Transpose)
 * [Addition](https://en.wikipedia.org/wiki/Matrix_addition)
 * [Scalar Multiplication](https://en.wikipedia.org/wiki/Scalar_multiplication)
-* [Transposition](https://en.wikipedia.org/wiki/Transpose)
 * [Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
 
 
