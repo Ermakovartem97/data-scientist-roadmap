@@ -1,23 +1,23 @@
-# 1_ Fundamentals
+# 1_ Основы
 
 
-## 1_ Matrices & Algebra fundamentals
+## 1_ Матрицы & линейная алгебра
 
-### About
+### Описание
 
-In mathematics, a matrix is a __rectangular array of numbers, symbols, or expressions, arranged in rows and columns__. A matrix could be reduced as a submatrix of a matrix by deleting any collection of rows and/or columns.
+В математике матрица - это __массив чисел, символов или выражений, расположенных в строках и столбцах__. Матрица может быть уменьшена как подматрица матрицы путем удаления любой коллекции строк и/или столбцов.
 
 ![matrix-image](https://upload.wikimedia.org/wikipedia/commons/b/bb/Matrix.svg)
 
-### Operations
+### Операции
 
-There are a number of basic operations that can be applied to modify matrices:
+Существует ряд основных операций, которые могут быть применены для модификации матриц:
 
-* [Determinant](https://en.wikipedia.org/wiki/Determinant)
-* [Transposition](https://en.wikipedia.org/wiki/Transpose)
-* [Addition](https://en.wikipedia.org/wiki/Matrix_addition)
-* [Scalar Multiplication](https://en.wikipedia.org/wiki/Scalar_multiplication)
-* [Multiplication](https://en.wikipedia.org/wiki/Matrix_multiplication)
+* [Детерминант](https://en.wikipedia.org/wiki/Determinant)
+* [Транспонирование](https://en.wikipedia.org/wiki/Transpose)
+* [Сложение](https://en.wikipedia.org/wiki/Matrix_addition)
+* [Скалярное умножение](https://en.wikipedia.org/wiki/Scalar_multiplication)
+* [Перемножение](https://en.wikipedia.org/wiki/Matrix_multiplication)
 
 
 ## 2_ Hash function, binary tree, O(n)
